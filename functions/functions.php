@@ -1,5 +1,5 @@
 <?php
-$conn=mysqli_connect("localhost","root","googly","booksdb");
+$conn=mysqli_connect("localhost","root","","booksdb");
 
 //getting ip address
 function getIp() {
