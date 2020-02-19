@@ -1,7 +1,7 @@
 <?php 
 // After uploading to online server, change this connection accordingly
 
-$conn=mysqli_connect("localhost","root","googly","booksdb");
+$conn=mysqli_connect("localhost","root","","booksdb");
 
 if (mysqli_connect_errno())
   {
