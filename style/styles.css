@@ -1,0 +1,23 @@
+body
+{
+    background-color: snow;
+    
+}
+.card
+{
+    float:left;
+    margin-right: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 45px;
+    padding: 10px;
+}
+h2
+{
+    color: white;
+    font: Arial;
+}
+#d
+{
+    color: white;
+}
